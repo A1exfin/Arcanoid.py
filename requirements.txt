@@ -1,0 +1,11 @@
+altgraph==0.17.2
+distlib==0.3.4
+filelock==3.6.0
+future==0.18.2
+pefile==2021.9.3
+platformdirs==2.5.1
+pygame==2.1.2
+pyinstaller @ file:///C:/Projects/Python/9%20%28%D1%84%D0%B0%D0%B9%D0%BB%D1%8B%20%D0%B8%20%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29/pyinstaller-4.10-py3-none-win_amd64.whl
+pyinstaller-hooks-contrib==2022.2
+pywin32-ctypes==0.2.0
+six==1.16.0
